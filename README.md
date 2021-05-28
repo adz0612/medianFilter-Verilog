@@ -7,3 +7,5 @@
 
 
 > IP needs to be configured. A bram of required width needs to be configured and the input COE file has to be selected in order to give input to the program.
+
+> More details soon.
